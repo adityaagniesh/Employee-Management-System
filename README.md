@@ -11,7 +11,7 @@ A simple **Employee Management System** built with **Spring Boot** that performs
 - Example seeding for admin/user accounts (optional)
 
 ## Tech stack
-- Java 17 (or 11)
+- Java 21
 - Spring Boot
   - Spring Web
   - Spring Data JPA
